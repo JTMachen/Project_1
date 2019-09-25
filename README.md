@@ -1,4 +1,4 @@
-# Hacking The S&P 500: SPY ETF Time Series Analysis
+# SPY ETF Time Series Analysis
 
 ###  by Vinay Kakuru, Roberto Cantu, Jonathan Machen, and Brent McMinn
 
